@@ -47,10 +47,6 @@
 [GitHub OAuth 第三方登录示例教程](https://www.ruanyifeng.com/blog/2019/04/github-oauth.html)
 
 
-### 主流配置中心的比较 Spring Cloud Config、Apollo、Nacos
-https://blog.csdn.net/educast/article/details/90446604
-https://www.pianshen.com/article/26331375367/
-https://www.jianshu.com/p/e4168b4fb51e
 
 [TCP状态转换图详解](https://blog.csdn.net/wenqian1991/article/details/40110703)
 
@@ -88,3 +84,38 @@ https://www.jianshu.com/p/cdd80dd15593
 [为什么要用ETL](https://zhuanlan.zhihu.com/p/337994072)
 
 [Mybatis简介以及工作原理](https://www.cnblogs.com/leduo-zuul/p/10679367.html)
+
+
+## 微服务
+
+#### Eureka
+
+[微服务注册中心 Eureka 架构深入解读](https://www.infoq.cn/article/jlDJQ*3wtN2PcqTDyokh)
+
+others:
+
+[深入了解 Eureka 架构原理及实现](https://zhuanlan.zhihu.com/p/138542807)
+###### [Eureka源码分析](https://www.jianshu.com/nb/27291694)
+
+[深入理解Eureka 自我保护机制（五）](https://www.jianshu.com/p/2d7a10d70efb)
+
+
+
+#### 配置中心
+
+[Dive into Spring Cloud Config](https://nobodyiam.com/2016/04/02/dive-into-spring-cloud-config/)
+
+[Spring Cloud Config 详解](https://www.jianshu.com/p/d696fc89a331)
+
+Others:
+
+[主流配置中心的比较 Spring Cloud Config、Apollo、Nacos](https://blog.csdn.net/educast/article/details/90446604)
+
+[Spring Cloud Config、Apollo、Nacos配置中心选型及对比](https://www.pianshen.com/article/26331375367/)
+
+[主流配置中心的比较 Spring Cloud Config、Apollo、Nacos](https://www.jianshu.com/p/e4168b4fb51e)
+
+#### 网关
+
+
+
