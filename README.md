@@ -84,3 +84,8 @@ https://www.jianshu.com/p/cdd80dd15593
 - [《面试八股文》之Dubbo17卷](https://mp.weixin.qq.com/s?__biz=Mzk0MjA4ODcxNQ==&mid=2247498926&idx=1&sn=da6c9a5185fd77b642967f046e85ae4b&chksm=c2cacbcaf5bd42dc66dfed29f35d6ce4bf1a57d3726277143dfffa039d5f3e6aa9809b96f45c&scene=21#wechat_redirect)
 - [《面试八股文》之Zookeeper12卷](https://mp.weixin.qq.com/s?__biz=Mzk0MjA4ODcxNQ==&mid=2247499180&idx=1&sn=3574f2c29ab7fa1d8a827761d3769199&chksm=c2cacac8f5bd43dec28430e86a6f22411890d6e4c49bdd68f484eb499d84f1fd102aa21351c5&scene=21#wechat_redirect)
 
+
+
+####
+
+[Java Bean Validation](https://mp.weixin.qq.com/s/MTk9ZR7YGPpmcvypTMcjNg)
