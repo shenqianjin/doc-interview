@@ -99,4 +99,6 @@ https://www.jianshu.com/p/cdd80dd15593
 #### 
 - [《面试八股文》之Zookeeper11卷](https://www.jianshu.com/p/a7dd76870019)
 
+#### 分布式锁
+- [zookeeper分布式锁原理](https://www.jianshu.com/p/5b801509eabb)
 
