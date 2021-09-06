@@ -72,8 +72,7 @@ https://www.jianshu.com/p/cdd80dd15593
 
 [Mybatis简介以及工作原理](https://www.cnblogs.com/leduo-zuul/p/10679367.html)
 
-
-
+[聊聊MyBatis缓存机制](https://tech.meituan.com/2018/01/19/mybatis-cache.html)
 
 -----------
 #### 
@@ -89,3 +88,15 @@ https://www.jianshu.com/p/cdd80dd15593
 ####
 
 [Java Bean Validation](https://mp.weixin.qq.com/s/MTk9ZR7YGPpmcvypTMcjNg)
+
+
+
+[一句话说明白Java线程池中shutdown和shutdownNow的区别](https://blog.csdn.net/horero/article/details/77622951)
+
+[Java线程及线程池状态](https://www.cnblogs.com/doit8791/p/9067073.html)
+
+
+#### 
+- [《面试八股文》之Zookeeper11卷](https://www.jianshu.com/p/a7dd76870019)
+
+
