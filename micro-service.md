@@ -22,11 +22,13 @@
 - [Spring Cloud Config 详解](https://www.jianshu.com/p/d696fc89a331)
 - [不问不要紧，一文要人命，绝对的面试加分项--配置中心Apollo深度解读](https://mp.weixin.qq.com/s?__biz=MzkwMzE3MDY0Ng==&mid=2247486802&idx=1&sn=46b2a3c5cc8d6a3b0ffd62187eb7ce64&chksm=c09b126bf7ec9b7dd948213f79dd7ea707e8feeb1795e10dab172f0d6cac3c8cfbd278147067&scene=178&cur_album_id=1571227588654645250#rd)
 - [面试官：说一说我为什么会选择Spring Cloud Config作为配置中心](https://my.oschina.net/u/3748584/blog/4877446)
+
 Others:
 - [Spring Cloud Config、Apollo、Nacos配置中心选型及对比](https://www.pianshen.com/article/26331375367/)
 
 #### 注册中心
 - [微服务注册中心 Eureka 架构深入解读](https://www.infoq.cn/article/jlDJQ*3wtN2PcqTDyokh)
+
 others:
 - [深入了解 Eureka 架构原理及实现](https://zhuanlan.zhihu.com/p/138542807)
 - [Eureka源码分析](https://www.jianshu.com/nb/27291694)
